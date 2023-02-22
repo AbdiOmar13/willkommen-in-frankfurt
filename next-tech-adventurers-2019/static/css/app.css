@@ -1,0 +1,28 @@
+/**
+* Your CSS here
+**/
+
+body {background-color: #ffffff;}
+
+h1 {
+    font-family: 'Labrada', serif;
+}
+
+h2{
+    font-family: 'Labrada', serif;
+}
+
+p {
+    font-family: 'Gloock', serif;
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
